@@ -1,0 +1,8 @@
+[
+{"Name":"Tom","Email":"tom@ids.com","Mobile":"1234567891","Gender":"Male","Department":"IT","Designation":"Programmer","Salary":"90000","Status":"Active"},
+{"Name":"Dick","Email":"dick@ids.com","Mobile":"2345678901","Gender":"Male","Department":"Accounting","Designation":"Accountant","Salary":"80000","Status":"Active"},
+{"Name":"Harry","Email":"harry@ids.com","Mobile":"3456789011","Gender":"Male","Department":"IT","Designation":"Manager","Salary":"100000","Status":"Inactive"},
+{"Name":"Tammy","Email":"tammy@ids.com","Mobile":"4567890123","Gender":"Female","Department":"IT","Designation":"Analyst","Salary":"60000","Status":"Active"},
+{"Name":"Joe","Email":"joe@ids.com","Mobile":"5678901234","Gender":"Male","Department":"Sales","Designation":"Analyst","Salary":"60000","Status":"Active"},
+{"Name":"Ella","Email":"ella@ids.com","Mobile":"6789012345","Gender":"Female","Department":"IT","Designation":"Manager","Salary":"100000","Status":"Active"}
+]
